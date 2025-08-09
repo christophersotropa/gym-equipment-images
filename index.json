@@ -154,5 +154,157 @@
     "name": "Dumbbells",
     "file": "icons/dumbbells.png",
     "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/dumbbells.png"
+  },
+  [
+  {
+    "id": "bodyweight",
+    "name": "Bodyweight",
+    "file": "icons/bodyweight.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/bodyweight.png"
+  },
+  {
+    "id": "resistance_bands",
+    "name": "Resistance Bands",
+    "file": "icons/resistance_bands.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/resistance_bands.png"
+  },
+  {
+    "id": "pull_up_bar",
+    "name": "Pull-up Bar",
+    "file": "icons/pull-up_bar.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/pull-up_bar.png"
+  },
+  {
+    "id": "yoga_mat",
+    "name": "Yoga Mat",
+    "file": "icons/yoga_mat.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/yoga_mat.png"
+  },
+  {
+    "id": "jump_rope",
+    "name": "Jump Rope",
+    "file": "icons/jump_rope.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/jump_rope.png"
+  },
+  {
+    "id": "barbell",
+    "name": "Barbell",
+    "file": "icons/barbell.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/barbell.png"
+  },
+  {
+    "id": "kettlebells",
+    "name": "Kettlebells",
+    "file": "icons/kettlebells.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/kettlebells.png"
+  },
+  {
+    "id": "cables",
+    "name": "Cables",
+    "file": "icons/cables.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/cables.png"
+  },
+  {
+    "id": "olympic_barbell",
+    "name": "Olympic Barbell",
+    "file": "icons/olympic_barbell.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/olympic_barbell.png"
+  },
+  {
+    "id": "ez_curl_bar",
+    "name": "EZ Curl Bar",
+    "file": "icons/ez_curl_bar.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/ez_curl_bar.png"
+  },
+  {
+    "id": "medicine_ball",
+    "name": "Medicine Ball",
+    "file": "icons/medicine_ball.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/medicine_ball.png"
+  },
+  {
+    "id": "foam_roller",
+    "name": "Foam Roller",
+    "file": "icons/foam_roller.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/foam_roller.png"
+  },
+  {
+    "id": "trx",
+    "name": "TRX",
+    "file": "icons/trx.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/trx.png"
+  },
+  {
+    "id": "battle_ropes",
+    "name": "Battle Ropes",
+    "file": "icons/battle_ropes.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/battle_ropes.png"
+  },
+  {
+    "id": "suspension_trainer",
+    "name": "Suspension Trainer",
+    "file": "icons/suspension_trainer.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/suspension_trainer.png"
+  },
+  {
+    "id": "bosu_ball",
+    "name": "BOSU Ball",
+    "file": "icons/bosu_ball.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/bosu_ball.png"
+  },
+  {
+    "id": "stability_ball",
+    "name": "Stability Ball",
+    "file": "icons/stability_ball.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/stability_ball.png"
+  },
+  {
+    "id": "parallette_bars",
+    "name": "Parallette Bars",
+    "file": "icons/parallette_bars.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/parallette_bars.png"
+  },
+  {
+    "id": "gymnastic_rings",
+    "name": "Gymnastic Rings",
+    "file": "icons/gymnastic_rings.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/gymnastic_rings.png"
+  },
+  {
+    "id": "landmine",
+    "name": "Landmine",
+    "file": "icons/landmine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/landmine.png"
+  },
+  {
+    "id": "prowler_sled",
+    "name": "Prowler Sled",
+    "file": "icons/prowler_sled.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/prowler_sled.png"
+  },
+  {
+    "id": "bulgarian_bag",
+    "name": "Bulgarian Bag",
+    "file": "icons/bulgarian_bag.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/bulgarian_bag.png"
+  },
+  {
+    "id": "assault_bike",
+    "name": "Assault Bike",
+    "file": "icons/assault_bike.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/assault_bike.png"
+  },
+  {
+    "id": "spin_bike",
+    "name": "Spin Bike",
+    "file": "icons/spin_bike.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/spin_bike.png"
+  },
+  {
+    "id": "arc_trainer",
+    "name": "Arc Trainer",
+    "file": "icons/arc_trainer.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/arc_trainer.png"
   }
+]
 ]
