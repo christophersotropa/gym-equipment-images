@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ab_crunch_machine",
+    "name": "Ab Crunch Machine",
+    "file": "icons/ab_crunch_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/ab_crunch_machine.png"
+  },
+  {
+    "id": "back_extension_machine",
+    "name": "Back Extension Machine",
+    "file": "icons/back_extension_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/back_extension_machine.png"
+  },
+  {
+    "id": "cable_machine",
+    "name": "Cable Machine",
+    "file": "icons/cable_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/cable_machine.png"
+  },
+  {
+    "id": "calf_raise_machine",
+    "name": "Calf Raise Machine",
+    "file": "icons/calf_raise_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/calf_raise_machine.png"
+  },
+  {
+    "id": "chest_press_machine",
+    "name": "Chest Press Machine",
+    "file": "icons/chest_press_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/chest_press_machine.png"
+  },
+  {
+    "id": "elliptical_machine",
+    "name": "Elliptical Machine",
+    "file": "icons/elliptical_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/elliptical_machine.png"
+  },
+  {
+    "id": "functional_trainer",
+    "name": "Functional Trainer",
+    "file": "icons/functional_trainer.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/functional_trainer.png"
+  },
+  {
+    "id": "hack_squat_machine",
+    "name": "Hack Squat Machine",
+    "file": "icons/hack_squat_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/hack_squat_machine.png"
+  },
+  {
+    "id": "hip_abduction_machine",
+    "name": "Hip Abduction Machine",
+    "file": "icons/hip_abduction_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/hip_abduction_machine.png"
+  },
+  {
+    "id": "hip_adduction_machine",
+    "name": "Hip Adduction Machine",
+    "file": "icons/hip_adduction_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/hip_adduction_machine.png"
+  },
+  {
+    "id": "lat_pulldown_machine",
+    "name": "Lat Pulldown Machine",
+    "file": "icons/lat_pulldown_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/lat_pulldown_machine.png"
+  },
+  {
+    "id": "leg_curl_machine",
+    "name": "Leg Curl Machine",
+    "file": "icons/leg_curl_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/leg_curl_machine.png"
+  },
+  {
+    "id": "leg_extension_machine",
+    "name": "Leg Extension Machine",
+    "file": "icons/leg_extension_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/leg_extension_machine.png"
+  },
+  {
+    "id": "leg_press_machine",
+    "name": "Leg Press Machine",
+    "file": "icons/leg_press_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/leg_press_machine.png"
+  },
+  {
+    "id": "multi_station_machine",
+    "name": "Multi Station Machine",
+    "file": "icons/multi_station_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/multi_station_machine.png"
+  },
+  {
+    "id": "pec_deck_machine",
+    "name": "Pec Deck Machine",
+    "file": "icons/pec_deck_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/pec_deck_machine.png"
+  },
+  {
+    "id": "preacher_curl_machine",
+    "name": "Preacher Curl Machine",
+    "file": "icons/preacher_curl_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/preacher_curl_machine.png"
+  },
+  {
+    "id": "rowing_machine",
+    "name": "Rowing Machine",
+    "file": "icons/rowing_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/rowing_machine.png"
+  },
+  {
+    "id": "seated_row_machine",
+    "name": "Seated Row Machine",
+    "file": "icons/seated_row_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/seated_row_machine.png"
+  },
+  {
+    "id": "shoulder_press_machine",
+    "name": "Shoulder Press Machine",
+    "file": "icons/shoulder_press_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/shoulder_press_machine.png"
+  },
+  {
+    "id": "smith_machine",
+    "name": "Smith Machine",
+    "file": "icons/smith_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/smith_machine.png"
+  },
+  {
+    "id": "stair_climber",
+    "name": "Stair Climber",
+    "file": "icons/stair_climber.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/stair_climber.png"
+  },
+  {
+    "id": "stationary_bike",
+    "name": "Stationary Bike",
+    "file": "icons/stationary_bike.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/stationary_bike.png"
+  },
+  {
+    "id": "treadmill",
+    "name": "Treadmill",
+    "file": "icons/treadmill.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/treadmill.png"
+  },
+  {
+    "id": "tricep_dip_machine",
+    "name": "Tricep Dip Machine",
+    "file": "icons/tricep_dip_machine.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/tricep_dip_machine.png"
+  }
+]
