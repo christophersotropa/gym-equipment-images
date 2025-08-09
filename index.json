@@ -148,5 +148,11 @@
     "name": "Tricep Dip Machine",
     "file": "icons/tricep_dip_machine.png",
     "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/tricep_dip_machine.png"
+  },
+  {
+    "id": "dumbbells",
+    "name": "Dumbbells",
+    "file": "icons/dumbbells.png",
+    "url": "https://raw.githubusercontent.com/christophersotropa/gym-equipment-images/main/icons/dumbbells.png"
   }
 ]
